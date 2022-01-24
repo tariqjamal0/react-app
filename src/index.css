@@ -6,7 +6,47 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.dm{
+  
+}
+.c1{
+  border: 2px solid aqua;
+  height: 50%;
+  width: 100%;
+  padding: 5px;
+  background-color: black;
+  color: aqua;
+}
+.c2{
+  border: 2px solid aqua;
+  height: 50%;
+  width: 100%;
+  background-color: black;
+  color: aqua;
+  
+  padding: 5px; 
+}
+.c3{
+  border: 2px solid aqua;
+  height: 50%;
+  width: 100%;
+  background-color: black;
+  color: aqua;
+  
+  padding: 5px;
+}
+.c4{
+  border: 2px solid aqua;
+  height: 50%;
+  width: 100%;
+  padding: 5px;
+  background-color: black;
+  color: aqua;
+}
+img{
+  padding: 5px;
+  border: 2px solid aqua;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
